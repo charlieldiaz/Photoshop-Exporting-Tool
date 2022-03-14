@@ -1,7 +1,7 @@
 # Photoshop Exporting Tool
 This is a tool to batch export Layers of photoshop files to PNG and JPG formats. 
 
-# What it is ? 
+# What is it ? 
 This is a tool to batch export photoshop layers. It works with Groups and Artboards. The tool is script based. 
 As new versions are created I will upload them and update the documentation. 
 
