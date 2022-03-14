@@ -96,7 +96,7 @@ This will resize all the document by 50%, 60%, 70%.. All the way to double (reti
 
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/33541110/158163495-026217c8-8b52-4cba-ad36-e026576ea9a3.png">
 
-# Pep File
+# Prep File
 This will make Artboard based files have transparency on their properties. (You should click on it at the beginning of work).
 
 <img width="393" alt="image" src="https://user-images.githubusercontent.com/33541110/158163854-58dff7cc-9a7d-40f7-bff9-96ae3eaf452a.png">
