@@ -76,7 +76,7 @@ Note: If you export multiple times the tool with automatically rename the new fi
 <img width="244" alt="image" src="https://user-images.githubusercontent.com/33541110/158161417-ea3e845a-33b1-49fe-8924-4d0aa71a5f75.png">
 
 
-#IMPORTANT: 
+IMPORTANT: 
 -You can only export 2 Set of images at the time for Artboard files. (I recommend you delete the artboards you dont use and undo this right afterwards. 
 -Unselect the layers at this point (The tool knows to only select the yellow folders). (There will be a future version that will allow you to select specific folder export). You can press with the tool in the move tool (V) in the canvas background or at the empty area of the layers menu. 
 -Make artboards you will not use are invisible. Otherwise you will increase the time of the export and you have many unecesary duplicatess. 
@@ -90,9 +90,8 @@ Note: If you export multiple times the tool with automatically rename the new fi
 
 Note: If you export multiple times the tool with automatically rename the new files based on their layer ID. It's better to delete the old files and create new ones to avoid confusion. You can export up to 2 sets of images at the time. (2 groups of images with the same name). 
 
-#Extra
-
-#Resizing Section
+# Extra
+# Resizing Section
 This will resize all the document by 50%, 60%, 70%.. All the way to double (retina) of the original size. 
 
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/33541110/158163495-026217c8-8b52-4cba-ad36-e026576ea9a3.png">
@@ -103,7 +102,7 @@ This will make Artboard based files have transparency on their properties. (You 
 <img width="393" alt="image" src="https://user-images.githubusercontent.com/33541110/158163854-58dff7cc-9a7d-40f7-bff9-96ae3eaf452a.png">
 
 
-#Export Only section
+# Export Only section
 This is an experimental function. If you uncheck this section it will allow to export mutiple highlighted assets with the name of the asset. There will be future updates on it. 
 
 <img width="172" alt="image" src="https://user-images.githubusercontent.com/33541110/158164196-08a8d4eb-1b16-4ecb-a670-5e63ab6e7212.png">
