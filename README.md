@@ -81,12 +81,12 @@ IMPORTANT:
 -Unselect the layers at this point (The tool knows to only select the yellow folders). (There will be a future version that will allow you to select specific folder export). You can press with the tool in the move tool (V) in the canvas background or at the empty area of the layers menu. 
 -Make artboards you will not use are invisible. Otherwise you will increase the time of the export and you have many unecesary duplicatess. 
 
-4-A. Call the tool again and select if you want to export PNG and Jpeg or just PNG or just JPG.
+4-B. Call the tool again and select if you want to export PNG and Jpeg or just PNG or just JPG.
 
-5-A. Be Patient! depending on the size of the file it will take some time. Go to finder's desktop (00_Exported_images) and you will see the following folder with its artboard name division. 
+5-B. Be Patient! depending on the size of the file it will take some time. Go to finder's desktop (00_Exported_images) and you will see the following folder with its artboard name division. 
 ![image](https://user-images.githubusercontent.com/33541110/158162648-13a5e140-084d-4d0f-ba7f-0dbcacd425d5.png)
 
-5-A. Be Patient! depending on the size of the file it will take some time. Go to finder's desktop (00_Exported_images) and you will see the following folder with its artboard name division. 
+5-B. Be Patient! depending on the size of the file it will take some time. Go to finder's desktop (00_Exported_images) and you will see the following folder with its artboard name division. 
 
 Note: If you export multiple times the tool with automatically rename the new files based on their layer ID. It's better to delete the old files and create new ones to avoid confusion. You can export up to 2 sets of images at the time. (2 groups of images with the same name). 
 
