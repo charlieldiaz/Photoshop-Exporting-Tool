@@ -43,7 +43,7 @@ The first step is to decide if the naming for the future files. If there is alre
 Note: Sometimes the tool with create an extra Yellow folder with the name "Group". You may delete this folder as this will just help you when creating several structures in a row to visualize structures from each other. 
 <img width="189" alt="image" src="https://user-images.githubusercontent.com/33541110/158158071-cc20623b-b6e2-4d76-b63d-85815dc980b9.png">
 
-# Group
+# Folder Based
 3-A. If the type of PS file you are working with is folder based. Just place the yellow folders on top of the structure and populate the the folders with the assets you wish to export. 
 
 -Make sure that the assets inside the Yellow folders are not folders. 
@@ -63,7 +63,7 @@ IMPORTANT: unselect the layers at this point (The tool knows to only select the 
 Note: If you export multiple times the tool with automatically rename the new files based on their layer ID. It's better to delete the old files and create new ones to avoid confusion. You can export up to 2 sets of images at the time. (2 groups of images with the same name). 
 
 
-# Artboard
+# Artboard Based
 3-B. If the type of PS file you are working with is Artboard based. Just place the folders on inside the artboard of the structure and populate to the yellow folders with the assets you wish to export. 
 
 -Make sure that the assets inside the artboards that you dont want to export are inside a folder or delete them. 
