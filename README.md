@@ -77,9 +77,9 @@ Note: If you export multiple times the tool with automatically rename the new fi
 
 
 IMPORTANT: 
--You can only export 2 Set of images at the time for Artboard files. (I recommend you delete the artboards you dont use and undo this right afterwards. 
+-You can only export 2 Set of images at the time for Artboard files. (I recommend you delete the artboards you dont use and undo this right afterwards.
 -Unselect the layers at this point (The tool knows to only select the yellow folders). (There will be a future version that will allow you to select specific folder export). You can press with the tool in the move tool (V) in the canvas background or at the empty area of the layers menu. 
--Make artboards you will not use are invisible. Otherwise you will increase the time of the export and you have many unecesary duplicatess. 
+-Make sure artboards you will not use are invisible. Otherwise you will increase the time of the export and you have many unecesary duplicatess. 
 
 4-B. Call the tool again and select if you want to export PNG and Jpeg or just PNG or just JPG.
 
