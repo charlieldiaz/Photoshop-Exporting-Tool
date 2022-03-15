@@ -34,7 +34,7 @@ Since this tool is meant to batch export assets; the most efficient way to reduc
 
 #This tool creates file duplicates beside the actual files. They are blank copies so you can recognize the real assets.
 
-The first step is to decide if the naming for the future files. If there is already an image folder for the project it's a good idea to copy that folder path. 
+The first step is to decide the naming for the future files. If there is already an image folder for the project it's a good idea to copy that folder path. 
 
 1. Click on Create Structure : This will open a finder window that will allow you to pick a folder that contains the names of the images you want to use when exporting. This will create yellow folders with the file names that will be place on top of the layers. Click cancel or ESC when you have created the structure.
 
