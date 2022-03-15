@@ -86,8 +86,6 @@ IMPORTANT:
 5-B. Be Patient! depending on the size of the file it will take some time. Go to finder's desktop (00_Exported_images) and you will see the following folder with its artboard name division. 
 ![image](https://user-images.githubusercontent.com/33541110/158162648-13a5e140-084d-4d0f-ba7f-0dbcacd425d5.png)
 
-5-B. Be Patient! depending on the size of the file it will take some time. Go to finder's desktop (00_Exported_images) and you will see the following folder with its artboard name division. 
-
 Note: If you export multiple times the tool with automatically rename the new files based on their layer ID. It's better to delete the old files and create new ones to avoid confusion. You can export up to 2 sets of images at the time. (2 groups of images with the same name). 
 
 # Extra
